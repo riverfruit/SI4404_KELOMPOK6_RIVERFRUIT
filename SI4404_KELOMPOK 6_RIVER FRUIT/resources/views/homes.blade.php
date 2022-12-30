@@ -142,8 +142,10 @@
 
       <!-- Section: Social -->
       <section class="text-center mb-5">
+      <script src="https://kit.fontawesome.com/a1d276b9ca.js" crossorigin="anonymous"></script>
+
         <a href="" class="text-white me-4">
-          <i class="fab fa-facebook-f"></i>
+        <i class="fab fa-facebook-f"></i>
         </a>
         <a href="" class="text-white me-4">
           <i class="fab fa-twitter"></i>
@@ -162,6 +164,7 @@
         </a>
       </section>
       <!-- Section: Social -->
+      
     </div>
     <!-- Grid container -->
 
