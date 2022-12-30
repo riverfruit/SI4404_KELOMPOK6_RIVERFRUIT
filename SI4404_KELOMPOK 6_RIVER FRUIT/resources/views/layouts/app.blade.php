@@ -106,6 +106,8 @@
      Created by : SI4404_KELOMPOK 06_RIVER FRUIT
      </div>
 
+     
+
 @stack('scripts')
 </body>
 </html>
