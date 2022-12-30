@@ -37,4 +37,8 @@
             </form>
         </div>
     </div>
+
+    <div class="card-footer text-muted text-center">
+     Created by : SI4404_KELOMPOK 06_RIVER FRUIT
+     </div>
 @endsection

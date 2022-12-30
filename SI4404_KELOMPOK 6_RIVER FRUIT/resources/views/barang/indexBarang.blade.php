@@ -77,7 +77,7 @@
                                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                             </div>
                                             <div class="modal-body">
-                                              <h3 class="text-center">Apakah Yaking ingin Delete File</h3>
+                                              <h3 class="text-center">Apakah Yakin ingin Delete Barang ?</h3>
                                             </div>
                                             <div class="modal-footer">
                                                     <a class="btn btn-danger" href="{{route('admin.barang.delete' , ['id'=>$x->id])}}" type="submit">Delete</a>
@@ -96,4 +96,6 @@
 
         </div>
     </div>
+
+
     @endsection
