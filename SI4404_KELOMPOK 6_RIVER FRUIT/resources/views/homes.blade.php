@@ -132,7 +132,7 @@
         <div class="row d-flex justify-content-center">
           <div class="col-lg-8">
             <p>
-            River fruit memiliki sebuah filosofi river yang berarti sungai dan fruit yang berarti buah yaitu sungai buah yang diharapkan dapat memperdayakan UMKM atau para pekebun rumahan lebih makmur, dapat menjual buahnya tanpa hitungan minimal lalu calo dan tidak bergantung pada buah import yang setiap tahun harganya selalu naik. Sesuai dengan tujuan negara yaitu meningkatkan kesejahteraan dan menekan kemiskinan.
+            River fruit memiliki sebuah filosofi river yang berarti sungai dan fruit yang berarti buah yaitu sungai buah yang diharapkan dapat memperdayakan UMKM atau para pekebunan rumahan lebih makmur, dapat menjual buahnya tanpa hitungan minimal lalu calo dan tidak bergantung pada buah import yang setiap tahun harganya selalu naik. Sesuai dengan tujuan negara yaitu meningkatkan kesejahteraan dan menekan kemiskinan.
             Dari hal tersebutlah kami mahasiswa/i Sistem Informasi yang terdiri dari anak muda kreatif yaitu Louis Yasmin, Fauzziyah Azzahra, Insan Bumi Prasasat, Kamal Fadilah memiliki tujuan untuk memberikan perubahan menuju yang lebih baik untuk masyarakat Indonesia.
             </p>
           </div>
