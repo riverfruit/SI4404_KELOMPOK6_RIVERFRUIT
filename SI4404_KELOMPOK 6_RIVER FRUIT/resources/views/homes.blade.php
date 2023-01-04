@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 @section('content')
     <div class="" style="width: 100% ; height: 400px ; overflow: hidden">
         <img src="{{asset('/img/fruit.jpg')}}" class="img-fluid overflow-hidden" alt="">
@@ -25,6 +25,51 @@
 
 
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.css" integrity="sha256-NAxhqDvtY0l4xn+YVa6WjAcmd94NNfttjNsDmNatFVc=" crossorigin="anonymous" />
+
+      <!--Card Product-->
+      <section id="Jjaket">
+        <div class="container">
+          <div class="row text-center m-5">
+            <div class="col">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4 mb-5">
+              <div class="card">
+                <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+              </div>
+            </div>
+            <div class="col-md-4 mb-5">
+              <div class="card">
+                <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+              </div>
+            </div>
+            <div class="col-md-4 mb-5">
+              <div class="card">
+                <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+              </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="card">
+                  <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+                </div>
+              </div>
+              <div class="col-md-4 mb-5">
+                <div class="card">
+                  <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+                </div>
+              </div>
+            <div class="col-md-4 mb-5">
+              <div class="card">
+                <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
 
 <div class="container mt-100 mt-60">
     <div class="row">
@@ -114,9 +159,9 @@
           <!-- Grid column -->
           <!-- Grid column -->
           <div class="col-md-2">
-            <h6 class="text-uppercase font-weight-bold">
+            <h1 class="text-uppercase font-weight-bold">
               <a href="#!" class="text-white">About Us</a>
-            </h6>
+            </h1>
           </div>
           <!-- Grid column -->
 
