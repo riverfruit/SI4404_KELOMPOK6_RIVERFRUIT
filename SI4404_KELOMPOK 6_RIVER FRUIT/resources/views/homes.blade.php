@@ -204,9 +204,9 @@
           <!-- Grid column -->
           <!-- Grid column -->
           <div class="col-md-2">
-            <h1 class="text-uppercase font-weight-bold">
+            <h2 class="text-uppercase font-weight-bold">
               <a href="#!" class="text-white">About Us</a>
-            </h1>
+            </h2>
           </div>
           <!-- Grid column -->
 
