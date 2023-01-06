@@ -1,9 +1,13 @@
 @extends('layouts.app')
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+
 @section('content')
     <div class="" style="width: 100% ; height: 400px ; overflow: hidden">
         <img src="{{asset('/img/fruit.jpg')}}" class="img-fluid overflow-hidden" alt="">
     </div>
+  
+
+
     <div class="d-flex justify-content-center align-content-center m-3">
         <div class="col-5 p-2 mr-5">
             <h1 class="text-warning">River Fruit</h1>
@@ -27,7 +31,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.css" integrity="sha256-NAxhqDvtY0l4xn+YVa6WjAcmd94NNfttjNsDmNatFVc=" crossorigin="anonymous" />
 
       <!--Card Product-->
-      <section id="Jjaket">
+      <section id="buah">
         <div class="container">
           <div class="row text-center m-5">
             <div class="col">
@@ -41,38 +45,79 @@
             </div>
             <div class="col-md-4 mb-5">
               <div class="card">
-                <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+                <img src="{{asset('/img/a1.jpg')}}" class="card-img-top" alt="">
               </div>
             </div>
             <div class="col-md-4 mb-5">
               <div class="card">
-                <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+                <img src="{{asset('/img/a3.jpg')}}" class="card-img-top" alt="">
               </div>
             </div>
             <div class="col-md-4 mb-5">
                 <div class="card">
-                  <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+                  <img src="{{asset('/img/a4.jpg')}}" class="card-img-top" alt="">
                 </div>
               </div>
               <div class="col-md-4 mb-5">
                 <div class="card">
-                  <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+                  <img src="{{asset('/img/a5.jpg')}}" class="card-img-top" alt="">
                 </div>
               </div>
             <div class="col-md-4 mb-5">
               <div class="card">
-                <img src="{{asset('/img/a2.jpg')}}" class="card-img-top" alt="">
+                <img src="{{asset('/img/a6.jpg')}}" class="card-img-top" alt="">
               </div>
             </div>
           </div>
         </div>
       </section>
 
+      <section>
+        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="{{asset('/img/a7.jpg')}}" class="d-block w-100 " alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Kiwi</h5>
+                  <p>Merupakan sebuah buah yang luarnya berwana cokelat dan dalamnya berwarna hijau.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="{{asset('/img/a8.jpg')}}" class="d-block w-100 " alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Alpukat</h5>
+                  <p>Merupakan sebuah buah yang memiliki rasa unik dan memiliki banyak penggeamr.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="{{asset('/img/a9.jpg')}}" class="d-block w-100 " alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Starberry</h5>
+                  <p>Merupakan buah berwana merah yang sangat iconic.</p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+      </section>
+
 
 
 
 <div class="container mt-100 mt-60">
-    <div class="row">
+    <div class="row text-center m-5">
         <div class="col-12 text-center">
             <div class="section-title">
                 <h4 class="title mb-4">Our Team Developer</h4>
