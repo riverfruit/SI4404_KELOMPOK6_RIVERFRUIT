@@ -223,7 +223,7 @@
           <div class="col-lg-8">
             <p>
             River fruit memiliki sebuah filosofi river yang berarti sungai dan fruit yang berarti buah yaitu sungai buah yang diharapkan dapat memperdayakan UMKM atau para pekebunan rumahan lebih makmur, dapat menjual buahnya tanpa hitungan minimal lalu calo dan tidak bergantung pada buah import yang setiap tahun harganya selalu naik. Sesuai dengan tujuan negara yaitu meningkatkan kesejahteraan dan menekan kemiskinan.
-            Dari hal tersebutlah kami mahasiswa/i Sistem Informasi yang terdiri dari anak muda kreatif yaitu Louis Yasmin, Fauzziyah Azzahra, Insan Bumi Prasasat, Kamal Fadilah memiliki tujuan untuk memberikan perubahan menuju yang lebih baik untuk masyarakat Indonesia.
+            Dari hal tersebutlah kami mahasiswa/i Sistem Informasi yang terdiri dari anak muda kreatif yaitu Louis Yasmin, Fauzziyah Azzahra, Insan Bumi Prasasat, Kamal Fadhilah memiliki tujuan untuk memberikan perubahan menuju yang lebih baik untuk masyarakat Indonesia.
             </p>
           </div>
         </div>
@@ -234,22 +234,22 @@
       <section class="text-center mb-5">
       <script src="https://kit.fontawesome.com/a1d276b9ca.js" crossorigin="anonymous"></script>
 
-        <a href="" class="text-white me-4">
+        <a href="https://www.facebook.com/profile.php?id=100089086819063" class="text-white me-4">
         <i class="fab fa-facebook-f"></i>
         </a>
         <a href="" class="text-white me-4">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="http://127.0.0.1:8000/" class="text-white me-4">
           <i class="fab fa-google"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="https://www.instagram.com/kamal.fadhilah/" class="text-white me-4">
           <i class="fab fa-instagram"></i>
         </a>
         <a href="" class="text-white me-4">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="https://github.com/riverfruit" class="text-white me-4">
           <i class="fab fa-github"></i>
         </a>
       </section>
