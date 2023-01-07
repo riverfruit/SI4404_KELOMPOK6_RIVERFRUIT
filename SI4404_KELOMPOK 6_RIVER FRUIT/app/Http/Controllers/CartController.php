@@ -38,7 +38,7 @@ class CartController extends Controller
 
         return redirect()->back();
     }
-    //fungsi delete barang di carrt
+    //fungsi delete barang di cart
     public function destroy($id){
         $data = Cart::find($id);
         $data->delete();

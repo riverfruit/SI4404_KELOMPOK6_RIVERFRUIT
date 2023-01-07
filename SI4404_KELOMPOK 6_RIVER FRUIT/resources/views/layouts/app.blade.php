@@ -69,9 +69,9 @@
                                 </a>
 
                                 <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                    @if(Auth::user()->role=='Admin')
+                                    @if(Auth::user()->role=='Penjual')
                                         <a href="{{route('admin.order')}}" class="dropdown-item">
-                                            Admin Dashboard
+                                            Penjual Dashboard
                                         </a>
 
                                         <a href="{{route('admin.indexBarang')}}" class="dropdown-item">
