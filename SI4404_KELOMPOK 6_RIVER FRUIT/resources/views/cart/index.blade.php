@@ -127,6 +127,9 @@
                                 <label for="">Alamat</label>
                                 <input type="text" name="alamat" class="form-control">
                             </div>
+                            <div class="m-2">
+                                <p>Silahkan trasnfer pada Bank BCA no Rekening 0898988899 a/n Jara</p>
+                            </div>
 
                             <div class="m-2">
                                 <label for="formFile" class="form-label">Masukan Bukti Transfer</label>
