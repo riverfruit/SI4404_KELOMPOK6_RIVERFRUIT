@@ -4,6 +4,7 @@
     <div class="container">
         <div class="card p-5">
             <h2 class="text-center">List Barang</h2>
+            <p class="text-center">Let's Shooping, Take your Fruit Now</p>
             <hr>
             <form action="{{route('shop.search')}}" method="get" >
                 @csrf
