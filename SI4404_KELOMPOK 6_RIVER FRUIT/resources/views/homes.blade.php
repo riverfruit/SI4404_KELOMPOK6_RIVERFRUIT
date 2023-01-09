@@ -132,7 +132,7 @@
             <div class="mt-4 pt-2">
                 <div class="team position-relative d-block text-center">
                     <div class="image position-relative d-block overflow-hidden">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar3.png" class="img-fluid rounded" alt="">
+                        <img src="{{asset('/img/FAUZZIYAH.PNG')}}" class="img-fluid rounded" alt="">
                         <div class="overlay rounded bg-dark"></div>
                     </div>
                     <div class="content py-2 member-position bg-white border-bottom overflow-hidden rounded d-inline-block">
@@ -147,7 +147,7 @@
             <div class="mt-4 pt-2">
                 <div class="team position-relative d-block text-center">
                     <div class="image position-relative d-block overflow-hidden">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar1.png" class="img-fluid rounded" alt="">
+                        <img src="{{asset('/img/LOUIS.PNG')}}" class="img-fluid rounded" alt="">
                         <div class="overlay rounded bg-dark"></div>
                     </div>
                     <div class="content py-2 member-position bg-white border-bottom overflow-hidden rounded d-inline-block">
@@ -162,7 +162,7 @@
             <div class="mt-4 pt-2">
                 <div class="team position-relative d-block text-center">
                     <div class="image position-relative d-block overflow-hidden">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-fluid rounded" alt="">
+                        <img src="{{asset('/img/INSAN.PNG')}}" class="img-fluid rounded" alt="">
                         <div class="overlay rounded bg-dark"></div>
                     </div>
                     <div class="content py-2 member-position bg-white border-bottom overflow-hidden rounded d-inline-block">
@@ -177,7 +177,7 @@
             <div class="mt-4 pt-2">
                 <div class="team position-relative d-block text-center">
                     <div class="image position-relative d-block overflow-hidden">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar2.png" class="img-fluid rounded" alt="">
+                        <img src="{{asset('/img/KAMAL.PNG')}}" class="img-fluid rounded" alt="">
                         <div class="overlay rounded bg-dark"></div>
                     </div>
                     <div class="content py-2 member-position bg-white border-bottom overflow-hidden rounded d-inline-block">
